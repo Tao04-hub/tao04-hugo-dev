@@ -1,0 +1,44 @@
+# Hugo 自动部署到 GitHub Pages 的工作流
+name: Deploy Hugo to GitHub Pages
+
+# 触发条件：推送到 master 分支时自动运行
+on:
+  push:
+    branches: [ master ]
+
+# 权限配置（必须）
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+# 工作流任务
+jobs:
+  deploy:
+    runs-on: ubuntu-latest  # 使用 Ubuntu 系统运行
+    steps:
+      # 步骤1：拉取仓库代码
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          submodules: true  # 拉取主题子模块（如果有）
+          fetch-depth: 0    # 拉取完整提交记录
+
+      # 步骤2：安装 Hugo（适配所有版本，自动识别）
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: 'latest'  # 使用最新版 Hugo
+          extended: true          # 启用扩展版（支持主题编译）
+
+      # 步骤3：编译 Hugo 生成静态网页
+      - name: Build static files
+        run: hugo --minify  # --minify 压缩文件，加载更快
+
+      # 步骤4：部署到 GitHub Pages
+      - name: Deploy to Pages
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}  # GitHub 自动生成的令牌
+          publish_dir: ./public                      # Hugo 编译后的静态文件目录
+          publish_branch: gh-pages                   # 发布到 gh-pages 分支（固定）
