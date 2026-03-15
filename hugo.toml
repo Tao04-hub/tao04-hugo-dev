@@ -1,4 +1,4 @@
-baseURL                = "https://Tao04-hub.github.io/Tao04-hugo-dev"
+baseURL                = "https://tao04-hub.github.io/tao04-hugo-dev"
 languageCode           = "zh"
 title                  = "Tao04"
 # Theme i18n support
