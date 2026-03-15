@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Photoswipe on Tao04</title><link>https://Tao04-hub.github.io/Tao04-hugo-dev/tags/photoswipe/</link><description>Recent content in Photoswipe on Tao04</description><generator>Hugo -- gohugo.io</generator><language>zh</language><lastBuildDate>Mon, 26 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://Tao04-hub.github.io/Tao04-hugo-dev/tags/photoswipe/index.xml" rel="self" type="application/rss+xml"/><item><title>相册</title><link>https://Tao04-hub.github.io/Tao04-hugo-dev/p/image-gallery/</link><pubDate>Mon, 26 Jan 2026 00:00:00 +0000</pubDate><guid>https://Tao04-hub.github.io/Tao04-hugo-dev/p/image-gallery/</guid><description>&lt;img src="https://Tao04-hub.github.io/Tao04-hugo-dev/" alt="Featured image of post 相册" /&gt;&lt;p&gt;Stack 主题内置了对相册的支持。你只需要简单地将多张图片并排放置，就可以创建一个精美的相册。&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Photoswipe on Tao04</title><link>https://tao04-hub.github.io/tao04-hugo-dev/tags/photoswipe/</link><description>Recent content in Photoswipe on Tao04</description><generator>Hugo -- gohugo.io</generator><language>zh</language><lastBuildDate>Mon, 26 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://tao04-hub.github.io/tao04-hugo-dev/tags/photoswipe/index.xml" rel="self" type="application/rss+xml"/><item><title>相册</title><link>https://tao04-hub.github.io/tao04-hugo-dev/p/image-gallery/</link><pubDate>Mon, 26 Jan 2026 00:00:00 +0000</pubDate><guid>https://tao04-hub.github.io/tao04-hugo-dev/p/image-gallery/</guid><description>&lt;img src="https://tao04-hub.github.io/tao04-hugo-dev/" alt="Featured image of post 相册" /&gt;&lt;p&gt;Stack 主题内置了对相册的支持。你只需要简单地将多张图片并排放置，就可以创建一个精美的相册。&lt;/p&gt;
 &lt;h2 id="示例相册"&gt;示例相册
-&lt;/h2&gt;&lt;p&gt;&lt;img src="https://Tao04-hub.github.io/Tao04-hugo-dev/p/image-gallery/florian-klauer-nptLmg6jqDo-unsplash.jpg"
+&lt;/h2&gt;&lt;p&gt;&lt;img src="https://tao04-hub.github.io/tao04-hugo-dev/p/image-gallery/florian-klauer-nptLmg6jqDo-unsplash.jpg"
 	width="667"
 	height="1000"
 	loading="lazy"
@@ -13,7 +13,7 @@
 		data-flex-grow="66"
 		data-flex-basis="160px"
 	
-&gt; &lt;img src="https://Tao04-hub.github.io/Tao04-hugo-dev/p/image-gallery/luca-bravo-alS7ewQ41M8-unsplash.jpg"
+&gt; &lt;img src="https://tao04-hub.github.io/tao04-hugo-dev/p/image-gallery/luca-bravo-alS7ewQ41M8-unsplash.jpg"
 	width="1000"
 	height="667"
 	loading="lazy"
@@ -27,7 +27,7 @@
 		data-flex-basis="359px"
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://Tao04-hub.github.io/Tao04-hugo-dev/p/image-gallery/helena-hertz-wWZzXlDpMog-unsplash.jpg"
+&lt;p&gt;&lt;img src="https://tao04-hub.github.io/tao04-hugo-dev/p/image-gallery/helena-hertz-wWZzXlDpMog-unsplash.jpg"
 	width="1000"
 	height="750"
 	loading="lazy"
@@ -40,7 +40,7 @@
 		data-flex-grow="133"
 		data-flex-basis="320px"
 	
-&gt; &lt;img src="https://Tao04-hub.github.io/Tao04-hugo-dev/p/image-gallery/hudai-gayiran-3Od_VKcDEAA-unsplash.jpg"
+&gt; &lt;img src="https://tao04-hub.github.io/tao04-hugo-dev/p/image-gallery/hudai-gayiran-3Od_VKcDEAA-unsplash.jpg"
 	width="667"
 	height="1000"
 	loading="lazy"

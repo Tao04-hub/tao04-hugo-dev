@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>文档 on Tao04</title><link>https://Tao04-hub.github.io/Tao04-hugo-dev/categories/documentation/</link><description>Recent content in 文档 on Tao04</description><generator>Hugo -- gohugo.io</generator><language>zh</language><lastBuildDate>Mon, 26 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://Tao04-hub.github.io/Tao04-hugo-dev/categories/documentation/index.xml" rel="self" type="application/rss+xml"/><item><title>短代码</title><link>https://Tao04-hub.github.io/Tao04-hugo-dev/p/%E7%9F%AD%E4%BB%A3%E7%A0%81/</link><pubDate>Mon, 26 Jan 2026 00:00:00 +0000</pubDate><guid>https://Tao04-hub.github.io/Tao04-hugo-dev/p/%E7%9F%AD%E4%BB%A3%E7%A0%81/</guid><description>&lt;p&gt;Stack 主题还提供了一些自定义短代码来增强你的内容。&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>文档 on Tao04</title><link>https://tao04-hub.github.io/tao04-hugo-dev/categories/documentation/</link><description>Recent content in 文档 on Tao04</description><generator>Hugo -- gohugo.io</generator><language>zh</language><lastBuildDate>Mon, 26 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://tao04-hub.github.io/tao04-hugo-dev/categories/documentation/index.xml" rel="self" type="application/rss+xml"/><item><title>短代码</title><link>https://tao04-hub.github.io/tao04-hugo-dev/p/%E7%9F%AD%E4%BB%A3%E7%A0%81/</link><pubDate>Mon, 26 Jan 2026 00:00:00 +0000</pubDate><guid>https://tao04-hub.github.io/tao04-hugo-dev/p/%E7%9F%AD%E4%BB%A3%E7%A0%81/</guid><description>&lt;p&gt;Stack 主题还提供了一些自定义短代码来增强你的内容。&lt;/p&gt;
 &lt;h2 id="引用-quote"&gt;引用 (Quote)
 &lt;/h2&gt;&lt;p&gt;&lt;code&gt;quote&lt;/code&gt; 短代码允许你显示带有作者、来源和 URL 的引用。&lt;/p&gt;
 &lt;blockquote&gt;
@@ -94,9 +94,9 @@
  C--&gt;D;&lt;/pre&gt;&lt;h3 id="用法-6"&gt;用法
 &lt;/h3&gt;&lt;p&gt;将你的 Mermaid 代码包裹在语言设置为 &lt;code&gt;mermaid&lt;/code&gt; 的代码块中。&lt;/p&gt;
 &lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;</description></item><item><title>相册</title><link>https://Tao04-hub.github.io/Tao04-hugo-dev/p/image-gallery/</link><pubDate>Mon, 26 Jan 2026 00:00:00 +0000</pubDate><guid>https://Tao04-hub.github.io/Tao04-hugo-dev/p/image-gallery/</guid><description>&lt;img src="https://Tao04-hub.github.io/Tao04-hugo-dev/" alt="Featured image of post 相册" /&gt;&lt;p&gt;Stack 主题内置了对相册的支持。你只需要简单地将多张图片并排放置，就可以创建一个精美的相册。&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;</description></item><item><title>相册</title><link>https://tao04-hub.github.io/tao04-hugo-dev/p/image-gallery/</link><pubDate>Mon, 26 Jan 2026 00:00:00 +0000</pubDate><guid>https://tao04-hub.github.io/tao04-hugo-dev/p/image-gallery/</guid><description>&lt;img src="https://tao04-hub.github.io/tao04-hugo-dev/" alt="Featured image of post 相册" /&gt;&lt;p&gt;Stack 主题内置了对相册的支持。你只需要简单地将多张图片并排放置，就可以创建一个精美的相册。&lt;/p&gt;
 &lt;h2 id="示例相册"&gt;示例相册
-&lt;/h2&gt;&lt;p&gt;&lt;img src="https://Tao04-hub.github.io/Tao04-hugo-dev/p/image-gallery/florian-klauer-nptLmg6jqDo-unsplash.jpg"
+&lt;/h2&gt;&lt;p&gt;&lt;img src="https://tao04-hub.github.io/tao04-hugo-dev/p/image-gallery/florian-klauer-nptLmg6jqDo-unsplash.jpg"
 	width="667"
 	height="1000"
 	loading="lazy"
@@ -109,7 +109,7 @@
 		data-flex-grow="66"
 		data-flex-basis="160px"
 	
-&gt; &lt;img src="https://Tao04-hub.github.io/Tao04-hugo-dev/p/image-gallery/luca-bravo-alS7ewQ41M8-unsplash.jpg"
+&gt; &lt;img src="https://tao04-hub.github.io/tao04-hugo-dev/p/image-gallery/luca-bravo-alS7ewQ41M8-unsplash.jpg"
 	width="1000"
 	height="667"
 	loading="lazy"
@@ -123,7 +123,7 @@
 		data-flex-basis="359px"
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://Tao04-hub.github.io/Tao04-hugo-dev/p/image-gallery/helena-hertz-wWZzXlDpMog-unsplash.jpg"
+&lt;p&gt;&lt;img src="https://tao04-hub.github.io/tao04-hugo-dev/p/image-gallery/helena-hertz-wWZzXlDpMog-unsplash.jpg"
 	width="1000"
 	height="750"
 	loading="lazy"
@@ -136,7 +136,7 @@
 		data-flex-grow="133"
 		data-flex-basis="320px"
 	
-&gt; &lt;img src="https://Tao04-hub.github.io/Tao04-hugo-dev/p/image-gallery/hudai-gayiran-3Od_VKcDEAA-unsplash.jpg"
+&gt; &lt;img src="https://tao04-hub.github.io/tao04-hugo-dev/p/image-gallery/hudai-gayiran-3Od_VKcDEAA-unsplash.jpg"
 	width="667"
 	height="1000"
 	loading="lazy"
@@ -164,7 +164,7 @@
  &lt;/blockquote&gt;
 &lt;hr&gt;
 &lt;p&gt;相册语法启发自 &lt;a class="link" href="https://typlog.com/" target="_blank" rel="noopener"
- &gt;Typlog&lt;/a&gt;&lt;/p&gt;</description></item><item><title>Markdown 语法指南</title><link>https://Tao04-hub.github.io/Tao04-hugo-dev/p/markdown-%E8%AF%AD%E6%B3%95%E6%8C%87%E5%8D%97/</link><pubDate>Sun, 25 Jan 2026 00:00:00 +0000</pubDate><guid>https://Tao04-hub.github.io/Tao04-hugo-dev/p/markdown-%E8%AF%AD%E6%B3%95%E6%8C%87%E5%8D%97/</guid><description>&lt;img src="https://Tao04-hub.github.io/Tao04-hugo-dev/" alt="Featured image of post Markdown 语法指南" /&gt;&lt;p&gt;这篇文章提供了可以在 Hugo 内容文件中使用的基本 Markdown 语法示例，同时也展示了 Hugo 主题中基本 HTML 元素是否应用了 CSS 装饰。&lt;/p&gt;
+ &gt;Typlog&lt;/a&gt;&lt;/p&gt;</description></item><item><title>Markdown 语法指南</title><link>https://tao04-hub.github.io/tao04-hugo-dev/p/markdown-%E8%AF%AD%E6%B3%95%E6%8C%87%E5%8D%97/</link><pubDate>Sun, 25 Jan 2026 00:00:00 +0000</pubDate><guid>https://tao04-hub.github.io/tao04-hugo-dev/p/markdown-%E8%AF%AD%E6%B3%95%E6%8C%87%E5%8D%97/</guid><description>&lt;img src="https://tao04-hub.github.io/tao04-hugo-dev/" alt="Featured image of post Markdown 语法指南" /&gt;&lt;p&gt;这篇文章提供了可以在 Hugo 内容文件中使用的基本 Markdown 语法示例，同时也展示了 Hugo 主题中基本 HTML 元素是否应用了 CSS 装饰。&lt;/p&gt;
 &lt;h2 id="标题-headings"&gt;标题 (Headings)
 &lt;/h2&gt;&lt;p&gt;以下 HTML &lt;code&gt;&amp;lt;h1&amp;gt;&lt;/code&gt;—&lt;code&gt;&amp;lt;h6&amp;gt;&lt;/code&gt; 元素代表了六个级别的章节标题。&lt;code&gt;&amp;lt;h1&amp;gt;&lt;/code&gt; 是最高级别，而 &lt;code&gt;&amp;lt;h6&amp;gt;&lt;/code&gt; 是最低级别。&lt;/p&gt;
 &lt;h3 id="h3"&gt;H3
@@ -379,7 +379,7 @@
  &gt;演讲&lt;/a&gt;。&amp;#160;&lt;a href="#fnref:1" class="footnote-backref" role="doc-backlink"&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;/div&gt;</description></item><item><title>数学公式</title><link>https://Tao04-hub.github.io/Tao04-hugo-dev/p/math-typesetting/</link><pubDate>Sat, 24 Jan 2026 00:00:00 +0000</pubDate><guid>https://Tao04-hub.github.io/Tao04-hugo-dev/p/math-typesetting/</guid><description>&lt;p&gt;Stack 主题支持使用 &lt;a class="link" href="https://katex.org/" target="_blank" rel="noopener"
+&lt;/div&gt;</description></item><item><title>数学公式</title><link>https://tao04-hub.github.io/tao04-hugo-dev/p/math-typesetting/</link><pubDate>Sat, 24 Jan 2026 00:00:00 +0000</pubDate><guid>https://tao04-hub.github.io/tao04-hugo-dev/p/math-typesetting/</guid><description>&lt;p&gt;Stack 主题支持使用 &lt;a class="link" href="https://katex.org/" target="_blank" rel="noopener"
  &gt;KaTeX&lt;/a&gt; 渲染数学公式。&lt;/p&gt;
 &lt;h2 id="启用-katex"&gt;启用 KaTeX
 &lt;/h2&gt;&lt;h3 id="按页面启用"&gt;按页面启用
